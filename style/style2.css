@@ -1,0 +1,29 @@
+h1 {
+    line-height:60px;
+}
+
+h2{
+    margin: 12px;
+    color: rgb(33, 46, 83);
+    font-family: 'Carattere', cursive;
+}
+p{
+    color:rgb(41, 48, 5);
+    letter-spacing: 1px;
+    text-indent: 6 px;
+}
+.bold {
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    width: 50%
+
+}
+
+div.coolbox {
+    margin: 10px;
+    padding: 20px;
+    border:rgb(14, 132, 250);
+}
